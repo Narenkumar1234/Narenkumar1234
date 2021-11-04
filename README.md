@@ -10,9 +10,6 @@
 - 😁 Ask me about something. I'm happy to help
 - ✈️ How to reach me: [@NightGamer01](https://www.instagram.com//Night_Gamer_01)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=narenkumar1234&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Narenkumar1234&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -33,5 +30,10 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=narenkumar1234&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Narenkumar1234&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 
 
