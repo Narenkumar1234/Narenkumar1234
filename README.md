@@ -8,7 +8,7 @@
 - ⛈️ I’m currently learning ReactJs
 - ❤️ I’m looking to collaborate on Full Stack Development
 - 😁 Ask me about something. I'm happy to help
-- ✈️ How to reach me: [@NightGamer01](https://www.instagram.com//Night_Gamer_01)
+- ✈️ How to reach me: [@NightGamer01](https://www.instagram.com/Night_Gamer_01)
 
 ## ⚡ Technologies
 
