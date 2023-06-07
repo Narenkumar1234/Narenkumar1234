@@ -1,11 +1,11 @@
-#### Hii There 👋, I'am Narenkumar ✔️. People call me NightGamer01 🎮. I am currently pursuing my bachelor's degree majoring in Information Technology from [Government College Of Technology, Combatore](https://gct.ac.in). I am always excited to work with new technologes.  
+#### Hii There 👋, I'am Narenkumar ✔️. People call me NightGamer01 🎮. I have completed my bachelor's degree majoring in Information Technology from [Government College Of Technology, Combatore](https://gct.ac.in). I am always excited to work with new technologes.  
 <br/>
 
 <a href="https://night-gamer-who-am-i.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/63674689/140313160-3d5dcaea-64e2-4957-ae6f-097103c425bc.png" alt="" /></a></h1>
 
 
-- ✔️ I’m currently working on React Projects
-- ⛈️ I’m currently learning ReactJs
+- ✔️ I’m currently working on NextJS Projects
+- ⛈️ I’m currently learning Prisma
 - ❤️ I’m looking to collaborate on Full Stack Development
 - 😁 Ask me about something. I'm happy to help
 - ✈️ How to reach me: [@NightGamer01](https://www.instagram.com/Night_Gamer_01)
