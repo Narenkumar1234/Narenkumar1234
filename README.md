@@ -1,4 +1,4 @@
-# Hi there, I'm Narenkumar RM 👋
+# Hi there, I'm Naren 👋
 
 <div align="center">
   <a href="https://www.narenkumar.xyz" target="_blank">
