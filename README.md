@@ -62,12 +62,11 @@ Driven **Frontend Software Engineer** with **2.5+ years of professional experien
 
 ---
 
-### 📊 GitHub & Algorithmic Statistics
+### 📈 Core Strengths & Highlights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narenkumar1234&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=121212&title_color=059669&text_color=ffffff&icon_color=059669" alt="Narenkumar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narenkumar1234&layout=compact&theme=dark&border_radius=10&bg_color=121212&title_color=059669&text_color=ffffff" alt="Top Languages" width="48%" />
-</div>
+- ⚡ **Competitive Coding**: 500+ LeetCode problems solved with top 5% global ranking.
+- 🎨 **Modern Frontend Architecture**: Modular React/Next.js components, TailwindCSS, CSS Modules, and custom design tokens.
+- 🚀 **Performance Optimization**: Core Web Vitals optimization, bundle size reduction, and lazy loading strategies.
 
 ---
 
