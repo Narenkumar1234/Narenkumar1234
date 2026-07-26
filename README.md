@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.narenkumar.xyz" target="_blank">
-    <img src="https://raw.githubusercontent.com/Narenkumar1234/Portfolio-lastest/main/src/assets/hero.png" width="360" alt="Narenkumar RM — Frontend Software Engineer Portfolio" />
+    <img src="landing.png" width="100%" alt="Narenkumar RM — Frontend Software Engineer Portfolio" />
   </a>
   <br /><br />
   <a href="https://www.narenkumar.xyz" target="_blank">
