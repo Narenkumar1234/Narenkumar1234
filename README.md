@@ -2,7 +2,11 @@
 
 <div align="center">
   <a href="https://www.narenkumar.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Website-narenkumar.xyz-059669?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
+    <img src="https://raw.githubusercontent.com/Narenkumar1234/Portfolio-lastest/main/src/assets/hero.png" width="360" alt="Narenkumar RM — Frontend Software Engineer Portfolio" />
+  </a>
+  <br /><br />
+  <a href="https://www.narenkumar.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Live_Portfolio-narenkumar.xyz-059669?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="https://www.linkedin.com/in/nightgamer01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
